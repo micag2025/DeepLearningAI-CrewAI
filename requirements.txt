@@ -1,3 +1,7 @@
 crewai==0.28.8
 crewai_tools==0.1.6
 langchain_community==0.0.29
+
+OPENAI_API_KEY= your OPENAI_API_KEY
+SERPER_API_KEY = your SERPER_API_KEY
+HF_API_KEY = your HF_API_KEY
