@@ -1,0 +1,33 @@
+.flow-container {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    width: fit-content;
+}
+.flow-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.flow-step {
+    padding: 8px 15px;
+    margin: 5px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    display: inline-block;
+}
+.arrow {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin: 0 8px;
+}
+.parallel-container {
+    display: flex;
+    justify-content: center;
+}
