@@ -1,0 +1,3 @@
+# config/email_engagement_tasks.yaml
+email_drafting:
+  template: "Hello {name},\n\nWe noticed your interest in {use_case}. We have a solution that can help you achieve your goals. Let's discuss this further.\n\nBest regards,\nCrewAI Team"

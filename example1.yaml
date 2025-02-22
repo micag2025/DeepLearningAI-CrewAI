@@ -1,0 +1,5 @@
+# config/lead_qualification_tasks.yaml
+lead_scoring_and_validation:
+  scoring_criteria:
+    - "Relevance of job title to AI adoption"
+    - "Company size and potential market impact"
