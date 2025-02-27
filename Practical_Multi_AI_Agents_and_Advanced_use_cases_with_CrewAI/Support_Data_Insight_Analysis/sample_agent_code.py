@@ -5,25 +5,33 @@ import pandas as pd
 # Data
 issue_data = {
 	'Issue Type': ['API Issue', 'Login Issue', 'Report Generation', 'Data Import', 'Feature Request', 'Billing Issue', 'UI Bug'],
-    'Frequency': [10, 10, 8, 10, 8, 12, 8]
+    #'Frequency': [10, 10, 8, 10, 8, 12, 8]
+    'Frequency': [10, 9, 6, 10, 7, 8, 5]
 }
 priority_data = {
 	'Issue Type': ['API Issue', 'Login Issue', 'Report Generation', 'Data Import', 'Feature Request', 'Billing Issue', 'UI Bug'],
-    'High': [5, 4, 3, 4, 3, 5, 3],
-    'Medium': [3, 2, 2, 4, 3, 5, 3],
-    'Low': [2, 3, 3, 2, 2, 2, 2],
-    'Critical': [2, 1, 0, 0, 2, 3, 2]
+    #'High': [5, 4, 3, 4, 3, 5, 3],
+    #'Medium': [3, 2, 2, 4, 3, 5, 3],
+    #'Low': [2, 3, 3, 2, 2, 2, 2],
+    #'Critical': [2, 1, 0, 0, 2, 3, 2]
+    'High': [5, 4, 2, 4, 3, 5, 1],
+    'Medium': [5, 2, 1, 3, 3, 2, 3],
+    'Low': [0, 0, 1, 2, 1, 1, 1],
+    'Critical': [4, 1, 1, 1, 0, 1, 0]
 }
 agent_performance_data = {
 	'Agent ID': ['A001', 'A002', 'A003', 'A004', 'A005'],
     'Total Tickets': [10, 10, 10, 10, 10],
-    'Average Response Time (mins)': [134.9, 117.9, 147.6, 137.5, 140.5],
-    'Average Resolution Time (mins)': [813.6, 770.3, 735.4, 650.9, 753.1],
-    'Average Satisfaction Rating': [2.4, 3.5, 2.6, 3.3, 3.1]
+    #'Average Response Time (mins)': [134.9, 117.9, 147.6, 137.5, 140.5],
+    #'Average Resolution Time (mins)': [813.6, 770.3, 735.4, 650.9, 753.1],
+    'Average Resolution Time (mins)': [958.0, 792.0, 817.0, 785.0, 733.0],
+    #'Average Satisfaction Rating': [2.4, 3.5, 2.6, 3.3, 3.1]
+    'Average Satisfaction Rating': [3.0, 3.7, 2.1, 3.5, 4.0]
 }
 customer_satisfaction_data = {
 	'Month': ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
-    'Average Satisfaction Rating': [2.8, 3.1, 2.8, 2.9, 3.0, 3.2, 3.0]
+    #'Average Satisfaction Rating': [2.8, 3.1, 2.8, 2.9, 3.0, 3.2, 3.0]
+    'Average Satisfaction Rating': [3.8, 3.4, 3.67, 3.5, 3.3, 3.2, 3.0]
 }
 
 # Convert to DataFrames

@@ -10,6 +10,6 @@
 
 - Content Creation at Scale📝
 
-- Blog Post Crew in Production📰 
+
 
 
