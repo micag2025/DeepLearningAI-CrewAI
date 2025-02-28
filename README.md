@@ -1,5 +1,5 @@
 # DeepLearningAI-CrewAI
-
+![logo1](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) 
 ![logo0](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image3_www.crewai.com.jpeg) 
 
 Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by two short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [CrewAI](https://www.crewai.com/):
