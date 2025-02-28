@@ -12,5 +12,5 @@
 
 - Build a crew to trailor job applications 🎓
 
-- Build Advanced Multi AI Agent✨
+
 
