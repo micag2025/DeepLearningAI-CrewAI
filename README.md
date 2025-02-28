@@ -1,5 +1,7 @@
 # DeepLearningAI-CrewAI
 
+![logo0](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image3_www.crewai.com.jpeg) 
+
 Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by two short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [CrewAI](https://www.crewai.com/):
 
 ## Multi AI Agent Systems with CrewAI  
