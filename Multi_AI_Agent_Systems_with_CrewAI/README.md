@@ -1,5 +1,5 @@
 ## Multi AI Agent Systems with CrewAI 
-    ![logo1](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image1_community.deeplearning.ai.jpeg) 
+![logo1](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image1_community.deeplearning.ai.jpeg) 
 
 - Create agents to research and write an article🔮
 
