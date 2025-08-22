@@ -20,7 +20,7 @@ Build multi-agent systems that collaborate, automate tasks, and integrate extern
   - _Additional Resources_: Access links to documentation, model hubs, and supplementary learning materials.
 
 ## Contributions  
-Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
+Contributions are welcome! Feel free to submit [pull requests](https://github.com/micag2025/DeepLearningAI-CrewAI/pulls) to improve or extend the codebase.
 
 ## License  
 This repository is licensed under the [MIT License](https://opensource.org/license/MIT).
