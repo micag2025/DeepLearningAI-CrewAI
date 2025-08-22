@@ -4,11 +4,11 @@
 
 Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by two short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [CrewAI](https://www.crewai.com/):
 
-## Multi AI Agent Systems with CrewAI  
+## [Multi AI Agent Systems with CrewAI](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Multi_AI_Agent_Systems_with_CrewAI)  
 Learn how a team of AI agents can perform complex, multi-step tasks, instead of use a single large language model (LLM). CrewAI, an open-source library, automates processes like resume tailoring and event planning by assigning specialized roles and tools to agents. Key principles include role assignment, memory management, tool usage, and cooperation.
 
 
-## Practical Multi AI Agents and Advanced Use Cases with crewAI
+## [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI)
 Build multi-agent systems that collaborate, automate tasks, and integrate external tools. Learn to optimize agents using metrics and feedback. Deploy agent-based applications for project planning, data analysis, and content creation while enhancing workflow with multiple LLMs.
 
 

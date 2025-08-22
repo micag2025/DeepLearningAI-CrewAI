@@ -2,16 +2,14 @@
 
 ![logo2](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image2_community.deeplearning.ai.jpeg) 
 
-- Automated Project: Planning, Estimation, and Allocation🚀
 
-- Building Project Progress Report📊
+- 🚀 [Automated Project: Planning, Estimation, and Allocation](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI/Automated_project_planning_estimation_allocation)
 
-- Agentic Sales Pipeline💼
+- 📊 [Building Project Progress Report](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI/Bulding_project_progress_report)
 
-- Support Data Insight Analysis📈
+- 💼 [Agentic Sales Pipeline](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI/Agentic_Sales_Pipelines)
 
-- Content Creation at Scale📝
+- 📈 [Support Data Insight Analysis](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI/Support_Data_Insight_Analysis)
 
-
-
+- 📝 [Content Creation at Scale](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI/Content_Creation_at_Scale)
 
