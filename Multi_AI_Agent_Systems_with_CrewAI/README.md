@@ -14,4 +14,5 @@
 - Build a crew to trailor job applications 🎓
 
 
+- [Create agents to research and write an article](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Multi_AI_Agent_Systems_with_CrewAI/Create_Agents_research_and_write)
 
