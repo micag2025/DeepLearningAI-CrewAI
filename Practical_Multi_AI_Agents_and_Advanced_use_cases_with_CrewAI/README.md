@@ -1,6 +1,6 @@
 ## Practical Multi AI Agents and Advanced Use Cases with crewAI
 
-![logo2](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image2_community.deeplearning.ai.jpeg) 
+![image2](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image2.jpeg)
 
 
 - 🚀 [Automated Project: Planning, Estimation, and Allocation](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI/Automated_project_planning_estimation_allocation)
