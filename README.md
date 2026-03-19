@@ -73,7 +73,6 @@ CrewAI enables you to:
 
 ## Community & Resources  
 - CrewAI Documentation: https://docs.crewai.com    
-- GitHub: https://github.com/joaomdmoura/crewAI    
 
 ---
 
