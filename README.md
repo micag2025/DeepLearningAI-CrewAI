@@ -64,7 +64,13 @@ CrewAI enables you to:
 - Assign **roles and goals to agents**    
 - Build **collaborative AI teams**    
 - Structure complex workflows with ease    
-- Extend capabilities using tools and integrations  
+- Extend capabilities using tools and integrations
+  
+---  
+
+## Community & Resources  
+- CrewAI Documentation: https://docs.crewai.com    
+- GitHub: https://github.com/joaomdmoura/crewAI    
 
 ---
 
