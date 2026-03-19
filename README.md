@@ -21,7 +21,8 @@ Learn how to use the CrewAI framework to build and orchestrate multi-agent syste
 
 ---
 
-## ❓ What's Inside
+## ❓ What's Inside  
+
   - _Customized Code Examples_: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
   - _Hands-on Learning_: Apply your skills by creating agent crews that execute common business processes using Python and an LLM with CrewAI, an open-source library designed for building multi-agent systems.
   - _Practical Applications & Project-Based Learning_: Learn to build multi-agent systems for **resume tailoring**, **interview preparation**, **technical writing**, **customer support automation**, **outreach campaigns**, **event planning**, and **financial analysis**. Develop practical applications such as automated project planning, lead-scoring automation, data analysis support, and scalable content creation.
@@ -31,17 +32,19 @@ Besides, practical, real-world examples such as an **Automated Code Reviewer** a
 
 ---
 
-## Getting Started
+## Getting Started  
+
 This section shows how to install dependencies, configure authentication, and run the full pipeline.
 
 ### Prerequisites:
 
-Python 3.10+
-Google Colab or Jupyter environment
-API keys (see .env_example)
-Required API Keys
+Python 3.10+  
+Google Colab or Jupyter environment  
+API keys (see .env_example)  
+Required API Keys  
 
-**Clone and install**:
+**Clone and install**  
+
 ```bash
 git clone https://github.com/micag2025/DEEPLEARNINGAI-CREWAI.git
 cd DEEPLEARNINGAI-CREWAI
