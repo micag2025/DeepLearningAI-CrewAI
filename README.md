@@ -2,17 +2,24 @@
 ![logo1](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) 
 ![image3](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image3.jpeg)
 
-Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by two short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [CrewAI](https://www.crewai.com/):
+---
+
+Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by three short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [CrewAI](https://www.crewai.com/):
 
 ## [Multi AI Agent Systems with CrewAI](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Multi_AI_Agent_Systems_with_CrewAI)  
 Learn how a team of AI agents can perform complex, multi-step tasks, instead of use a single large language model (LLM). CrewAI, an open-source library, automates processes like resume tailoring and event planning by assigning specialized roles and tools to agents. Key principles include role assignment, memory management, tool usage, and cooperation.
 
+---
 
 ## [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Practical_Multi_AI_Agents_and_Advanced_use_cases_with_CrewAI)
 Build multi-agent systems that collaborate, automate tasks, and integrate external tools. Learn to optimize agents using metrics and feedback. Deploy agent-based applications for project planning, data analysis, and content creation while enhancing workflow with multiple LLMs.
 
+---
+
 ## [Build and Deploy Multi Agents CrewAI](ENCLOSE LINK) 
 Learn how to use the CrewAI framework to build and orchestrate multi-agent systems that automate complex, end-to-end workflows. These intelligent agent teams are capable of planning, reasoning, and collaborating using tools, memory, and guardrails, while being designed to scale effectively in production environments. To make this practical, examples of building real-world applications such as an **automated code reviewer**, and a **deep research assistant** will be given. This will done showing how to build practical applications including an **automated code reviewer**, and a **deep researcher**, each showcasing real-world design patterns for agent collaboration.
+
+---
 
 ## ❓ What's Inside
   - _Customized Code Examples_: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
@@ -22,8 +29,44 @@ Besides, practical, real-world examples such as an **Automated Code Reviewer** a
   - _Ready-to-Run Notebooks_: Test and modify pre-configured Jupyter notebooks.  
   - _Additional Resources_: Access links to documentation, model hubs, and supplementary learning materials.
 
+---
+
+## Getting Started
+This section shows how to install dependencies, configure authentication, and run the full pipeline.
+
+### Prerequisites:
+
+Python 3.10+
+Google Colab or Jupyter environment
+API keys (see .env_example)
+Required API Keys
+
+**Clone and install**:
+```bash
+git clone https://github.com/micag2025/DEEPLEARNINGAI-CREWAI.git
+cd DEEPLEARNINGAI-CREWAI
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```  
+**Configure environment variables (see .env.example)**
+
+---
+
 ## Contributions  
 Contributions are welcome! Feel free to submit [pull requests](https://github.com/micag2025/DeepLearningAI-CrewAI/pulls) to improve or extend the codebase.
+
+---
+
+## 📚 Why CrewAI?
+
+CrewAI enables you to:
+- Assign **roles and goals to agents**    
+- Build **collaborative AI teams**    
+- Structure complex workflows with ease    
+- Extend capabilities using tools and integrations  
+
+---
 
 ## License  
 This repository is licensed under the [MIT License](https://opensource.org/license/MIT).
