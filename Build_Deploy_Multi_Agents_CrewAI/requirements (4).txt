@@ -1,0 +1,7 @@
+ptyprocess
+ipykernel
+pyzmq
+onnxruntime==1.20.0
+exa-py
+crewai
+crewai-tools
