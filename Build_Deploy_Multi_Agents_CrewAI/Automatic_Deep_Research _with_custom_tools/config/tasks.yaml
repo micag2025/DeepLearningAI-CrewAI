@@ -1,0 +1,41 @@
+create_research_plan:
+  description: Break down "{user_query}" into focused research topics, key questions, and success criteria.
+  expected_output: >
+    Structured research plan including:
+    1) Main topics
+    2) Key questions per topic
+    3) Research success criteria
+
+gather_research_data:
+  description: Using the research plan, collect and verify comprehensive information from multiple credible sources. Cite all sources.
+  expected_output: >
+    Research dataset including:
+    1) Findings per topic with citations
+    2) Key facts and statistics
+    3) Multiple perspectives
+    4) Source credibility notes
+
+verify_information_quality:
+  description: Review collected data for accuracy, consistency, misinformation, and gaps. Flag issues requiring human review.
+  expected_output: >
+    Quality report including:
+    1) Original data reviewed
+    2) Verified vs. questionable claims
+    3) Consistency results
+    4) Source reliability ratings
+    5) Approval status for report generation
+
+write_final_report:
+  description: >
+    Generate a structured report answering "{user_query}" using only verified data from
+    verify_information_quality. Incorporate reviewed findings via the custom tool,
+    ensuring citations, clarity, and actionable insights.
+  expected_output: >
+    Final report including:
+    1) Executive summary
+    2) Detailed findings
+    3) Supporting analysis with citations
+    4) Key insights and recommendations
+    5) Charts or visual summaries where appropriate
+
+    

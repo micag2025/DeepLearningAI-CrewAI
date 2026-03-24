@@ -1,0 +1,6 @@
+
+OPENAI_API_KEY=your OpenAI API key here
+
+EXA_API_KEY=your EXA API key here
+
+EXA_BASE_URL=https://api.exa.ai
