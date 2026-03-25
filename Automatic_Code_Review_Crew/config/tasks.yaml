@@ -1,0 +1,60 @@
+analyze_code_quality:
+  description: >
+    Review the pull request code and identify style issues,
+    bugs, or maintainability concerns.
+
+    Classify issues as:
+    - critical (must fix)
+    - minor (suggestions)
+
+    PR content:
+    {file_content}
+
+  expected_output: >
+    JSON:
+    critical_issues[],
+    minor_issues[],
+    reasoning (1-2 sentences)
+
+  name: Analyze Code Quality
+
+
+review_security:
+  description: >
+    Review the code for security vulnerabilities such as
+    injection, authentication flaws, or data exposure.
+
+    PR content:
+    {file_content}
+
+  expected_output: >
+    JSON:
+    security_vulnerabilities (description, risk_level, evidence),
+    highest_risk (low|medium|high),
+    blocking (true/false),
+    security_recommendations[]
+
+  name: Review Security
+
+
+make_review_decision:
+  description: >
+    Based on the results from analyze_code_quality and review_security,
+    make the final decision: approve, request changes, or escalate.
+
+    Review the pull request code:
+
+    PR content:
+    {file_content}
+
+    Summarize findings and explain the decision.
+
+  expected_output: >
+    decision, summary, required_fixes (if any), comments
+
+  context:
+    - analyze_code_quality
+    - review_security
+
+  name: Review Decision
+
