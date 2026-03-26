@@ -1,6 +1,6 @@
 # DeepLearningAI-CrewAI
 ![logo1](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) 
-![image3](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image3.jpeg)
+![image3](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/cover_images/image3.jpeg)
 
 ---
 
