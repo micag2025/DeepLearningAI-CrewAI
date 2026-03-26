@@ -1,8 +1,7 @@
 
 ## Build and Deploy Multi Agents CrewAI
 
-![image3](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/image4.jpeg)
-
+![image4](https://github.com/micag2025/DeepLearningAI-CrewAI/blob/main/cover_images/image4.jpeg)
 
 ---
 
