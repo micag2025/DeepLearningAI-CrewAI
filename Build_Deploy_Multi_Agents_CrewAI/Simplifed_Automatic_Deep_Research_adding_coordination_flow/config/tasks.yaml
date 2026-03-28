@@ -1,0 +1,22 @@
+research_task:
+  description: >
+    Research '{user_query}'.
+    Return ONLY the 5 most important facts.
+    Each fact must be under 20 words and include 1 source.
+  expected_output: >
+    5 bullet points. Each <=20 words. Each includes 1 source.
+  agent: researcher
+
+write_task:
+  description: >
+    Write a short report based on the research.
+    Ensure consistency and remove weak claims.
+  expected_output: >
+    Short report with:
+    - Title
+    - 1 paragraph summary (<=100 words)
+    - 5 key insights
+    - Sources
+  agent: writer
+  context:
+    - research_task

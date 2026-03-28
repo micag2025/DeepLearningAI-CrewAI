@@ -1,0 +1,20 @@
+researcher:
+  role: Researcher
+  goal: Find the most important facts about {user_query} using minimal tokens.
+  backstory: Efficient researcher that only extracts critical information.
+  llm: gpt-4o-mini
+  max_iter: 2
+  verbose: false
+  tools:
+    - name: EXASearchTool
+      args:
+        max_results: 1
+    - name: ScrapeWebsiteTool
+
+writer:
+  role: Writer
+  goal: Write a concise, structured report and verify consistency.
+  backstory: Expert in summarizing and validating information efficiently.
+  llm: gpt-4o-mini
+  max_iter: 2
+  verbose: false
