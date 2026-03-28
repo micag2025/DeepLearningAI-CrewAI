@@ -12,6 +12,6 @@
 - ### [Automatic Deep Research - Adding custom tools](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Build_Deploy_Multi_Agents_CrewAI/Automatic_Deep_Research%20_with_custom_tools) 
 - ### [Automatic Code Review Crew](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Build_Deploy_Multi_Agents_CrewAI/Automatic_Code_Review_Crew)  
 
-- ### [Modified version Automatic Deep Research-Adding coordination patterns]()
+- ### [Simplifed_Automatic_Deep_Research_adding_coordination_flow]()
 - ### [Building a Reseach Flow]()
-- ### [Building an Automatic Code Review Flow]()
+
