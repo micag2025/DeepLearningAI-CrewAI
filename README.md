@@ -16,7 +16,7 @@ Build multi-agent systems that collaborate, automate tasks, and integrate extern
 
 ---
 
-## **NEW** [Build and Deploy Multi Agents CrewAI](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Build_Deploy_Multi_Agents_CrewAI)
+## ⚡**NEW**⚡ [Build and Deploy Multi Agents CrewAI](https://github.com/micag2025/DeepLearningAI-CrewAI/tree/main/Build_Deploy_Multi_Agents_CrewAI)
 Learn how to use the CrewAI framework to build and orchestrate multi-agent systems that automate complex, end-to-end workflows. These intelligent agent teams are capable of planning, reasoning, and collaborating using tools, memory, and guardrails, while being designed to scale effectively in production environments.To make this practical, examples of building real-world applications such as an **automated code reviewer**,
  and a **deep research assistant** will be shown. 
 
